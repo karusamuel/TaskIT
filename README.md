@@ -25,7 +25,7 @@ A bash script to easly clone a github Repoitories and run present tests (**npm o
 
 ## USAGE
 
-`task.sh [student-repo-url]`
+> task.sh [student-repo-url]
 
 e.g
 
@@ -37,20 +37,33 @@ To Avoid typing your entire script name Give it an alias
 
 [Stack Overflow link to Creating aliases](https://stackoverflow.com/questions/8967843/how-do-i-create-a-bash-alias)
 
-### ZSHEll(mac)
 
 > note letter  T is the alias 
 
 > feel free to change it
+
+### ZSHEll(mac)
+
+
 `echo 'alias T="task.sh"' >> .zshrc`
 
 
 ### bash(linux)
 
-> note letter  T is the alias 
-
-> feel free to change it
 `echo 'alias T="task.sh"' >> .bashrc`
+
+> restart your pc to reload .bashrc or .zshrc
+
+## USAGE WITH ALIASES
+
+> T  [student-repo-url]
+
+e.g
+
+`T https://github.com/karusamuel/phase-1-functions-lab.git`
+
+
+u+1f973
 
 ## UNINSTALL
 
