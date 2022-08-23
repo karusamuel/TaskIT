@@ -47,10 +47,14 @@ To Avoid typing your entire script name Give it an alias
 ### ZSHEll(mac)
 
 
+`cd ~` 
+
 `echo 'alias T="task.sh"' >> .zshrc`
 
 
 ### bash(linux)
+
+`cd ~` 
 
 `echo 'alias T="task.sh"' >> .bashrc`
 
