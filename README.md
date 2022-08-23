@@ -35,7 +35,14 @@ e.g
 
 To Avoid typing your entire script name Give it an alias
 
-[Stack Overflow link to setting aliases](https://stackoverflow.com/questions/8967843/how-do-i-create-a-bash-alias)
+[Stack Overflow link to Creating aliases](https://stackoverflow.com/questions/8967843/how-do-i-create-a-bash-alias)
+
+### ZSHEll
+
+> note letter  T is the alias 
+
+> feel free to change it
+`echo 'alias T="task.sh"' >> .bashrc`
 
 ## UNINSTALL
 
