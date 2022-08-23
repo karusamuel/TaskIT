@@ -1,7 +1,7 @@
 # TaskIT
 
 
-A bash script to easly clone a github Repoitories and run present tests (**npm only**)
+A bash script to easly clone a github Repositories and run present tests (**npm only**)
 
 ## installation
 
