@@ -1,31 +1,39 @@
 # TaskIT
+
+
 A bash script to easly clone a github Repoitories and run present tests (**npm only**)
 
 ## installation
+
 1. clone the project
+
 ### ssh
->`git clone git@github.com:karusamuel/TaskIT.git`
+
+`git clone git@github.com:karusamuel/TaskIT.git`
 
 ### HTTPS
->`git clone https://github.com/karusamuel/TaskIT.git`
+
+`git clone https://github.com/karusamuel/TaskIT.git`
 
 2. Navigate to project Directory
+
+
 3. Allow script Excecution
 
 
->`chmod +x ./task.sh`
+`chmod +x ./task.sh`
 
 4. move script to /usr/local/bin
 
->`cp ./task.sh /usr/local/bin`
+`cp ./task.sh /usr/local/bin`
 
 ## USAGE
 
->`task.sh repo-url`
+`task.sh repo-url`
 
 eg
 
-> `task.sh git@github.com:karusamuel/phase-1-first-class-functions-lab.git`
+`task.sh git@github.com:karusamuel/phase-1-first-class-functions-lab.git`
 
 ## ALIAS
 
