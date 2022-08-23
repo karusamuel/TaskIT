@@ -25,7 +25,7 @@ A bash script to easly clone a github Repoitories and run present tests (**npm o
 
 ## USAGE
 
-`task.sh repo-url`
+`task.sh [student-repo-url]`
 
 e.g
 
