@@ -36,3 +36,9 @@ e.g
 To Avoid typing your entire script name Give it an alias
 
 [Stack Overflow link to setting aliases](https://stackoverflow.com/questions/8967843/how-do-i-create-a-bash-alias)
+
+## UNINSTALL
+
+To unintall delete task.sh from your install location eg /usr/local/bin
+
+`sudo rm /usr/local/bin/task2.sh`
