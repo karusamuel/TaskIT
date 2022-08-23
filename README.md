@@ -31,12 +31,12 @@ A bash script to easly clone a github Repoitories and run present tests (**npm o
 
 `task.sh repo-url`
 
-eg
+e.g
 
 `task.sh git@github.com:karusamuel/phase-1-first-class-functions-lab.git`
 
-## ALIAS
+## ALIASES
 
-To Avoid typing your etire script name Give it an alias
+To Avoid typing your entire script name Give it an alias
 
 [Stack Overflow link to setting aliases](https://stackoverflow.com/questions/8967843/how-do-i-create-a-bash-alias)
