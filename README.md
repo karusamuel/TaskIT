@@ -21,7 +21,7 @@ A bash script to easly clone a github Repoitories and run present tests (**npm o
 
 4. move script to /usr/local/bin
 
-`cp ./task.sh /usr/local/bin`
+`sudo cp ./task.sh /usr/local/bin`
 
 ## USAGE
 
