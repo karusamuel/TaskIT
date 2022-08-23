@@ -37,7 +37,15 @@ To Avoid typing your entire script name Give it an alias
 
 [Stack Overflow link to Creating aliases](https://stackoverflow.com/questions/8967843/how-do-i-create-a-bash-alias)
 
-### ZSHEll
+### ZSHEll(mac)
+
+> note letter  T is the alias 
+
+> feel free to change it
+`echo 'alias T="task.sh"' >> .zshrc`
+
+
+### bash(linux)
 
 > note letter  T is the alias 
 
