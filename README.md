@@ -7,10 +7,6 @@ A bash script to easly clone a github Repoitories and run present tests (**npm o
 
 1. clone the project
 
-### ssh
-
-`git clone git@github.com:karusamuel/TaskIT.git`
-
 ### HTTPS
 
 `git clone https://github.com/karusamuel/TaskIT.git`
@@ -33,7 +29,7 @@ A bash script to easly clone a github Repoitories and run present tests (**npm o
 
 e.g
 
-`task.sh git@github.com:karusamuel/phase-1-first-class-functions-lab.git`
+`task.sh https://github.com/karusamuel/phase-1-functions-lab.git`
 
 ## ALIASES
 
