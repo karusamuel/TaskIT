@@ -31,6 +31,8 @@ e.g
 
 `task.sh https://github.com/karusamuel/phase-1-functions-lab.git`
 
+> add Aliases to avoid typing the entire script name  
+
 ## ALIASES
 
 To Avoid typing your entire script name Give it an alias
