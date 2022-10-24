@@ -13,9 +13,7 @@ A bash script to easly clone a github Repositories and run present tests (**npm 
 
 2. Navigate to project Directory
 
-
 3. Allow script Excecution
-
 
 `chmod +x ./task.sh`
 
@@ -39,22 +37,18 @@ To Avoid typing your entire script name Give it an alias
 
 [Stack Overflow link to Creating aliases](https://stackoverflow.com/questions/8967843/how-do-i-create-a-bash-alias)
 
-
 > note letter  T is the alias 
-
 > feel free to change it
 
 ### ZSHEll(mac)
 
-
-`cd ~` 
+`cd ~`
 
 `echo 'alias T="task.sh"' >> .zshrc`
 
-
 ### bash(linux)
 
-`cd ~` 
+`cd ~`
 
 `echo 'alias T="task.sh"' >> .bashrc`
 
@@ -68,19 +62,17 @@ e.g
 
 `T https://github.com/karusamuel/phase-1-functions-lab.git`
 
-
 u+1f973
 
 ## UNINSTALL
 
 To unintall delete task.sh from your install location eg /usr/local/bin
 
-`sudo rm /usr/local/bin/task2.sh`
-
+`sudo rm /usr/local/bin/task.sh`
 
 MIT License
 
-Copyright (c) 2022 
+Copyright (c) 2022
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
