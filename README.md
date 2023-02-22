@@ -5,7 +5,7 @@ A bash script to easly clone a github Repositories and run present tests (**npm 
 
 ## installation
 
-1. clone the project
+1. Clone the project
 
 ### HTTPS
 
@@ -17,7 +17,7 @@ A bash script to easly clone a github Repositories and run present tests (**npm 
 
 `chmod +x ./task.sh`
 
-4. move script to /usr/local/bin
+4. Move script to /usr/local/bin
 
 `sudo cp ./task.sh /usr/local/bin`
 
@@ -37,8 +37,8 @@ To Avoid typing your entire script name Give it an alias
 
 [Stack Overflow link to Creating aliases](https://stackoverflow.com/questions/8967843/how-do-i-create-a-bash-alias)
 
-> note letter  T is the alias 
-> feel free to change it
+> Note letter  T is the alias 
+> Feel free to change it
 
 ### ZSHEll(mac)
 
@@ -52,7 +52,7 @@ To Avoid typing your entire script name Give it an alias
 
 `echo 'alias T="task.sh"' >> .bashrc`
 
-> restart your pc to reload .bashrc or .zshrc
+> Restart your pc to reload .bashrc or .zshrc
 
 ## USAGE WITH ALIASES
 
@@ -62,7 +62,7 @@ e.g
 
 `T https://github.com/karusamuel/phase-1-functions-lab.git`
 
-u+1f973
+
 
 ## UNINSTALL
 
